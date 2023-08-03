@@ -6,4 +6,4 @@ Integrantes que conforman el grupo:
 `Helen Vásquez Sánchez.`\
 `Jesús Mendoza.`\
 `Claudia Redondo.`\
-`Ema Celena Gomez.`\
+`Ema Celena Gomez.`
