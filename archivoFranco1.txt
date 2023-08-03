@@ -1,2 +1,7 @@
 Hola, ¿qué tal?
+<<<<<<< HEAD
 Bien
+=======
+Gracias.
+De nada.
+>>>>>>> 75433fbdb641d8754cf918d3c5ec7f771be88d25
